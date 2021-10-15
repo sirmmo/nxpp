@@ -5,6 +5,7 @@ to use in traefik:
 
 
     services:
+        [...]
         proxy:
             image: sirmmo/nxpp
             networks:
